@@ -1,6 +1,6 @@
 # Welcome to Blackswitch Technologies!
 
-Blackswitch Technologies is a premier software development agency and consultancy dedicated to transforming your digital visions into reality. We specialize in seamless UI/UX design and custom software solutions tailored to your unique business needs.
+Blackswitch Technologies is a software development agency and consultancy dedicated to transforming your digital visions into reality. We specialize in seamless UI/UX design and custom software solutions tailored to your unique business needs.
 
 ## Services
 
