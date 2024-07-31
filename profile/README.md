@@ -8,20 +8,11 @@ Blackswitch Technologies is a software development agency and consultancy dedica
 - Web Development
 - Mobile App Development
 - Custom Software Solutions
-- Cloud Computing
-- API Development
-
+  
 ### UI/UX Design
 - UI Design
 - UX Design
-- Prototyping and Wireframing
-- Usability Testing
 
-### Consultancy
-- Technology Consulting
-- Project Management
-- Digital Transformation
-- Business Process Automation
 
 ## Get in Touch
 
