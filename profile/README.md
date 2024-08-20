@@ -16,10 +16,9 @@ Blackswitch Technologies is a software development agency and consultancy dedica
 
 ## Get in Touch
 
-To get a custom quote or schedule a one-on-one meeting, visit our [Contact Page](https://your-website.com/contact).
+To get a custom quote or schedule a one-on-one meeting, visit our [Contact Page]([https://your-website.com/contact](https://cal.com/fredy-somy-kmq6pc/discuss-your-ideas)).
 
 ## Connect With Us
 - [LinkedIn](https://linkedin.com/company/blackswitch-technologies)
-- [Twitter](https://twitter.com/blackswitchtech)
-- [Facebook](https://facebook.com/blackswitchtechnologies)
+
 
